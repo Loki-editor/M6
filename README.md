@@ -1,3 +1,5 @@
+# Name : LOKESH S
+# Register no : 212224240079
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
 To write a C Program to find area of rectangle using pointer.
